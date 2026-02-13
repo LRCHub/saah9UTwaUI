@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Clattanoia",
+  "base_artist": "OxT",
+  "createdAt": "2026-02-13T08:01:16.641696Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clattanoia",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/01_Clattanoia_OxT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Clattanoia",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/02_Clattanoia_OxT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Clattanoia (From “Overlord”)",
+      "artist": "AmaLee feat. Jonathan Young",
+      "has_synced": true,
+      "path": "select/03_Clattanoia_(From_“Overlord”)_AmaLee_feat._Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Clattanoia (From “Overlord”)",
+      "artist": "Amalee",
+      "has_synced": false,
+      "path": "select/04_Clattanoia_(From_“Overlord”)_Amalee.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clattanoia(penumbral)",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/05_Clattanoia(penumbral)_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CLATTANOIA - penumbral",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/06_CLATTANOIA_-_penumbral_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "OVERLORD OP - Clattanoia",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/07_OVERLORD_OP_-_Clattanoia_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "OVERLORD OP - Clattanoia",
+      "artist": "Raon",
+      "has_synced": true,
+      "path": "select/08_OVERLORD_OP_-_Clattanoia_Raon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Clattanoia (From \"Overlord\")",
+      "artist": "NateWantsToBattle",
+      "has_synced": false,
+      "path": "select/09_Clattanoia_(From__Overlord_)_NateWantsToBattle.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Clattanoia",
+      "artist": "OxT",
+      "has_synced": true,
+      "path": "select/10_Clattanoia_OxT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Clattanoia (From “Overlord”)",
+      "artist": "AmaLee/Jonathan Young",
+      "has_synced": true,
+      "path": "select/11_Clattanoia_(From_“Overlord”)_AmaLee_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Clattanoia (From \"Overlord\")",
+      "artist": "MattxAJ",
+      "has_synced": false,
+      "path": "select/12_Clattanoia_(From__Overlord_)_MattxAJ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Clattanoia (From “Overlord”)",
+      "artist": "MATTxAJ",
+      "has_synced": false,
+      "path": "select/13_Clattanoia_(From_“Overlord”)_MATTxAJ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Clattanoia",
+      "artist": "OxT",
+      "has_synced": false,
+      "path": "select/pl_01_Clattanoia_OxT.txt"
+    }
+  ]
+}
